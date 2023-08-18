@@ -1,0 +1,17 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0",
+    "nanoid": "^3.1.23",
+    "routes": "^2.1.0"
+  }
+}
